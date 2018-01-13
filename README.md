@@ -8,6 +8,8 @@ s2go-php-ext
 
 * libs2go: https://github.com/fieldhood/libs2go
 
+由于s2-php-ext依赖库太多，并且s2geometry的c++库编译依赖太多，所以使用libsgo为本扩展提供支撑。
+
 安装
 ------
 
