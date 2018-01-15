@@ -36,6 +36,6 @@ php s2go.php
 函数
 ------
 ```
-int s2_cellid(float lat, float lng)
-string s2_getcoving(float lat, float lng, float radius, int maxcell)  返回一个json字符串
+int s2go_cellid(float lat, float lng)
+string s2go_getcoving(float lat, float lng, float radius, int maxcell)  返回一个json字符串
 ```
